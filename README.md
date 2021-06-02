@@ -1,5 +1,5 @@
 # Bookshelf
-A simple Spring app for organizing your personal library.
+A simple Spring RESTful web service for organizing your personal library.
 
 
 ## What
